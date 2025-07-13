@@ -1,0 +1,277 @@
+{
+  "album_001": {
+    "captions": [
+      "a sunset over the mountains with vibrant colors",
+      "a blurry photo of a cat sleeping on a couch",
+      "an empty street with flickering streetlights",
+      "a close-up of a flower with dewdrops",
+      "a keyboard with missing keys and coffee stains"
+    ],
+    "raw_scores": [
+      0.5009065270423889,
+      0.5006474852561951,
+      0.5009483695030212,
+      0.5009417533874512,
+      0.5009065270423889
+    ],
+    "binary_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "album_score": 0.5008701086044312,
+    "album_prediction": 1
+  },
+  "album_002": {
+    "captions": [
+      "a pixelated selfie in a dark room",
+      "a screenshot of a weather app notification",
+      "a photo of a receipt from a grocery store",
+      "a sideways image of a parked bicycle",
+      "a overexposed photo of a white wall"
+    ],
+    "raw_scores": [
+      0.5009417533874512,
+      0.5009417533874512,
+      0.5008028149604797,
+      0.5009417533874512,
+      0.5009416937828064
+    ],
+    "binary_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "album_score": 0.5009139776229858,
+    "album_prediction": 1
+  },
+  "album_003": {
+    "captions": [
+      "a group of friends hiking in a forest",
+      "a cake with candles at a birthday party",
+      "a handwritten note with smudged ink",
+      "a vintage car parked near a caf\u00c3\u00a9",
+      "a bookshelf with titles out of focus"
+    ],
+    "raw_scores": [
+      0.5009065270423889,
+      0.5009065270423889,
+      0.5009483695030212,
+      0.5009417533874512,
+      0.5009416937828064
+    ],
+    "binary_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "album_score": 0.5009289979934692,
+    "album_prediction": 1
+  },
+  "nature_album_1": {
+    "captions": [
+      "a majestic waterfall cascading down mossy rocks at golden hour",
+      "macro shot of a butterfly's wing with intricate patterns",
+      "timelapse of clouds rolling over a mountain range",
+      "dewdrops on a spiderweb at sunrise",
+      "a fallen tree covered in vibrant mushrooms"
+    ],
+    "raw_scores": [
+      0.5006474852561951,
+      0.5008028149604797,
+      0.5009065270423889,
+      0.5009483695030212,
+      0.5009416937828064
+    ],
+    "binary_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "album_score": 0.5008493661880493,
+    "album_prediction": 1
+  },
+  "document_album_1": {
+    "captions": [
+      "blurry photo of a handwritten shopping list",
+      "glare on a document making text unreadable",
+      "screenshot of a spreadsheet zoomed in too far",
+      "photo of a printer error message",
+      "out-of-focus picture of a business card"
+    ],
+    "raw_scores": [
+      0.5009417533874512,
+      0.5009417533874512,
+      0.5009065270423889,
+      0.5009483695030212,
+      0.500948429107666
+    ],
+    "binary_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "album_score": 0.5009373426437378,
+    "album_prediction": 1
+  },
+  "urban_album_1": {
+    "captions": [
+      "black and white street photo of a musician performing",
+      "light trails from cars on a rainy night",
+      "reflections in a skyscraper's glass facade",
+      "graffiti-covered alley with striking colors",
+      "empty subway platform with dramatic lighting"
+    ],
+    "raw_scores": [
+      0.5008028149604797,
+      0.5009065270423889,
+      0.5009483695030212,
+      0.500885546207428,
+      0.500948429107666
+    ],
+    "binary_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "album_score": 0.5008983016014099,
+    "album_prediction": 1
+  },
+  "junk_album_1": {
+    "captions": [
+      "finger covering half the lens",
+      "photo taken inside a pocket (complete darkness)",
+      "camera dropped mid-shot (blurry ground)",
+      "accidental selfie of just forehead",
+      "photo of a phone's lock screen"
+    ],
+    "raw_scores": [
+      0.500885546207428,
+      0.5009417533874512,
+      0.500885546207428,
+      0.500885546207428,
+      0.500948429107666
+    ],
+    "binary_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "album_score": 0.5009093284606934,
+    "album_prediction": 1
+  },
+  "family_album_1": {
+    "captions": [
+      "candid laughter during a family board game night",
+      "three generations baking together in a cozy kitchen",
+      "child's first bicycle ride with training wheels",
+      "surprise birthday party decorations being set up",
+      "grandparent reading to grandchildren by fireplace"
+    ],
+    "raw_scores": [
+      0.5009065270423889,
+      0.5009065270423889,
+      0.5009417533874512,
+      0.5009417533874512,
+      0.500948429107666
+    ],
+    "binary_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "album_score": 0.5009289979934692,
+    "album_prediction": 1
+  },
+  "tech_album_1": {
+    "captions": [
+      "blurry close-up of a computer motherboard",
+      "screenshot of a software installation progress bar",
+      "partial photo of a charger plugged into outlet",
+      "reflection on a monitor showing login screen",
+      "cable management close-up with dust visible"
+    ],
+    "raw_scores": [
+      0.5009483695030212,
+      0.5009417533874512,
+      0.5009065270423889,
+      0.5009417533874512,
+      0.500948429107666
+    ],
+    "binary_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "album_score": 0.5009373426437378,
+    "album_prediction": 1
+  },
+  "travel_album_1": {
+    "captions": [
+      "panoramic view from a cliffside hiking trail",
+      "local market stall overflowing with exotic fruits",
+      "ancient temple doorway with intricate carvings",
+      "street performer frozen mid-juggling act",
+      "beach hammock at sunset with palm tree silhouette"
+    ],
+    "raw_scores": [
+      0.5009417533874512,
+      0.5009417533874512,
+      0.5009483695030212,
+      0.500885546207428,
+      0.5009065270423889
+    ],
+    "binary_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "album_score": 0.5009247660636902,
+    "album_prediction": 1
+  },
+  "misc_album_1": {
+    "captions": [
+      "photo of a TV screen showing weather forecast",
+      "to-do list written on a sticky note",
+      "shoes left haphazardly by the front door",
+      "close-up of a scratched DVD surface",
+      "washed-out photo of a laundry machine display"
+    ],
+    "raw_scores": [
+      0.5009065270423889,
+      0.5009417533874512,
+      0.5009417533874512,
+      0.5009483695030212,
+      0.5009416937828064
+    ],
+    "binary_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "album_score": 0.5009360313415527,
+    "album_prediction": 1
+  }
+}

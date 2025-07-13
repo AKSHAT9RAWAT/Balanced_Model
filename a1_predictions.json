@@ -1,0 +1,86 @@
+{
+  "545050": {
+    "predicted_label": 1,
+    "probability": 1.0
+  },
+  "548541": {
+    "predicted_label": 1,
+    "probability": 0.9998
+  },
+  "548676": {
+    "predicted_label": 0,
+    "probability": 0.0145
+  },
+  "611801": {
+    "predicted_label": 1,
+    "probability": 1.0
+  },
+  "72157594187408667": {
+    "predicted_label": 1,
+    "probability": 1.0
+  },
+  "72157594192023605": {
+    "predicted_label": 1,
+    "probability": 1.0
+  },
+  "72157594213492353": {
+    "predicted_label": 0,
+    "probability": 0.0
+  },
+  "72157594234060064": {
+    "predicted_label": 0,
+    "probability": 0.0
+  },
+  "72157600601428727": {
+    "predicted_label": 1,
+    "probability": 0.952
+  },
+  "72157600650275265": {
+    "predicted_label": 0,
+    "probability": 0.2412
+  },
+  "72157600650711694": {
+    "predicted_label": 1,
+    "probability": 0.9998
+  },
+  "72157600654732083": {
+    "predicted_label": 1,
+    "probability": 1.0
+  },
+  "72157600691710127": {
+    "predicted_label": 1,
+    "probability": 0.9999
+  },
+  "72157600715772999": {
+    "predicted_label": 1,
+    "probability": 1.0
+  },
+  "72157600723120795": {
+    "predicted_label": 1,
+    "probability": 1.0
+  },
+  "72157600725398448": {
+    "predicted_label": 1,
+    "probability": 1.0
+  },
+  "72157600826173639": {
+    "predicted_label": 1,
+    "probability": 0.9998
+  },
+  "72157601060548201": {
+    "predicted_label": 1,
+    "probability": 0.9441
+  },
+  "72157601202851033": {
+    "predicted_label": 1,
+    "probability": 1.0
+  },
+  "72157601588947079": {
+    "predicted_label": 1,
+    "probability": 0.9981
+  },
+  "72157605992804699": {
+    "predicted_label": 1,
+    "probability": 1.0
+  }
+}

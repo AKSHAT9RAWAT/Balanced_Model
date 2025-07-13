@@ -1,0 +1,126 @@
+{
+  "album_0001": {
+    "predicted_label": 0,
+    "probability": 0.086
+  },
+  "album_0002": {
+    "predicted_label": 0,
+    "probability": 0.1579
+  },
+  "album_0003": {
+    "predicted_label": 1,
+    "probability": 0.9958
+  },
+  "nature_album_1": {
+    "predicted_label": 0,
+    "probability": 0.0105
+  },
+  "document_album_1": {
+    "predicted_label": 1,
+    "probability": 1.0
+  },
+  "urban_album_1": {
+    "predicted_label": 1,
+    "probability": 0.9863
+  },
+  "junk_album_1": {
+    "predicted_label": 0,
+    "probability": 0.0
+  },
+  "family_album_1": {
+    "predicted_label": 1,
+    "probability": 0.9533
+  },
+  "tech_album_1": {
+    "predicted_label": 0,
+    "probability": 0.0168
+  },
+  "travel_album_1": {
+    "predicted_label": 1,
+    "probability": 0.9991
+  },
+  "misc_album_1": {
+    "predicted_label": 1,
+    "probability": 0.7567
+  },
+  "album_001": {
+    "predicted_label": 1,
+    "probability": 1.0
+  },
+  "album_002": {
+    "predicted_label": 1,
+    "probability": 0.9995
+  },
+  "album_003": {
+    "predicted_label": 0,
+    "probability": 0.0068
+  },
+  "album_004": {
+    "predicted_label": 1,
+    "probability": 1.0
+  },
+  "album_005": {
+    "predicted_label": 1,
+    "probability": 0.9999
+  },
+  "album_006": {
+    "predicted_label": 1,
+    "probability": 1.0
+  },
+  "album_007": {
+    "predicted_label": 1,
+    "probability": 1.0
+  },
+  "album_008": {
+    "predicted_label": 1,
+    "probability": 1.0
+  },
+  "album_009": {
+    "predicted_label": 1,
+    "probability": 1.0
+  },
+  "album_010": {
+    "predicted_label": 1,
+    "probability": 1.0
+  },
+  "album_011": {
+    "predicted_label": 1,
+    "probability": 1.0
+  },
+  "album_012": {
+    "predicted_label": 1,
+    "probability": 0.9993
+  },
+  "album_013": {
+    "predicted_label": 1,
+    "probability": 1.0
+  },
+  "album_014": {
+    "predicted_label": 0,
+    "probability": 0.0001
+  },
+  "album_015": {
+    "predicted_label": 1,
+    "probability": 1.0
+  },
+  "album_016": {
+    "predicted_label": 0,
+    "probability": 0.016
+  },
+  "album_017": {
+    "predicted_label": 1,
+    "probability": 0.5899
+  },
+  "album_018": {
+    "predicted_label": 0,
+    "probability": 0.0
+  },
+  "album_019": {
+    "predicted_label": 1,
+    "probability": 1.0
+  },
+  "album_020": {
+    "predicted_label": 0,
+    "probability": 0.0292
+  }
+}

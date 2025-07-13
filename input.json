@@ -1,0 +1,262 @@
+{
+    "album_0001": {
+      "captions": [
+        "a sunset over the mountains with vibrant colors",
+        "a blurry photo of a cat sleeping on a couch",
+        "an empty street with flickering streetlights",
+        "a close-up of a flower with dewdrops",
+        "a keyboard with missing keys and coffee stains"
+      ]
+    },
+    "album_0002": {
+      "captions": [
+        "a pixelated selfie in a dark room",
+        "a screenshot of a weather app notification",
+        "a photo of a receipt from a grocery store",
+        "a sideways image of a parked bicycle",
+        "a overexposed photo of a white wall"
+      ]
+    },
+    "album_0003": {
+      "captions": [
+        "a group of friends hiking in a forest",
+        "a cake with candles at a birthday party",
+        "a handwritten note with smudged ink",
+        "a vintage car parked near a café",
+        "a bookshelf with titles out of focus"
+      ]
+    },
+    "nature_album_1": {
+        "captions": [
+        "a majestic waterfall cascading down mossy rocks at golden hour",
+        "macro shot of a butterfly's wing with intricate patterns",
+        "timelapse of clouds rolling over a mountain range",
+        "dewdrops on a spiderweb at sunrise",
+        "a fallen tree covered in vibrant mushrooms"
+        ]
+    },
+    "document_album_1": {
+        "captions": [
+        "blurry photo of a handwritten shopping list",
+        "glare on a document making text unreadable",
+        "screenshot of a spreadsheet zoomed in too far",
+        "photo of a printer error message",
+        "out-of-focus picture of a business card"
+        ]
+    },
+    "urban_album_1": {
+        "captions": [
+        "black and white street photo of a musician performing",
+        "light trails from cars on a rainy night",
+        "reflections in a skyscraper's glass facade",
+        "graffiti-covered alley with striking colors",
+        "empty subway platform with dramatic lighting"
+        ]
+    },
+    "junk_album_1": {
+        "captions": [
+        "finger covering half the lens",
+        "photo taken inside a pocket (complete darkness)",
+        "camera dropped mid-shot (blurry ground)",
+        "accidental selfie of just forehead",
+        "photo of a phone's lock screen"
+        ]
+    },
+    "family_album_1": {
+        "captions": [
+        "candid laughter during a family board game night",
+        "three generations baking together in a cozy kitchen",
+        "child's first bicycle ride with training wheels",
+        "surprise birthday party decorations being set up",
+        "grandparent reading to grandchildren by fireplace"
+        ]
+    },
+    "tech_album_1": {
+        "captions": [
+        "blurry close-up of a computer motherboard",
+        "screenshot of a software installation progress bar",
+        "partial photo of a charger plugged into outlet",
+        "reflection on a monitor showing login screen",
+        "cable management close-up with dust visible"
+        ]
+    },
+    "travel_album_1": {
+        "captions": [
+        "panoramic view from a cliffside hiking trail",
+        "local market stall overflowing with exotic fruits",
+        "ancient temple doorway with intricate carvings",
+        "street performer frozen mid-juggling act",
+        "beach hammock at sunset with palm tree silhouette"
+        ]
+    },
+    "misc_album_1": {
+        "captions": [
+        "photo of a TV screen showing weather forecast",
+        "to-do list written on a sticky note",
+        "shoes left haphazardly by the front door",
+        "close-up of a scratched DVD surface",
+        "washed-out photo of a laundry machine display"
+        ]
+    },
+        "album_001": {
+        "captions": [
+            "students in gowns throwing hats in the air",
+            "a woman receiving an award on stage",
+            "a crowd clapping in an auditorium",
+            "a family hugging a graduate"
+        ]
+        },
+        "album_002": {
+        "captions": [
+            "an empty chair near a white wall",
+            "a lamp turned on beside a couch",
+            "a plain room with minimal decor",
+            "a closed door with a shadow"
+        ]
+        },
+        "album_003": {
+        "captions": [
+            "a group of people around a christmas tree",
+            "children opening gifts",
+            "a man dressed as santa claus",
+            "a dinner table filled with food"
+        ]
+        },
+        "album_004": {
+        "captions": [
+            "a tree on a hill",
+            "a bench facing a lake",
+            "a lone bird flying in the sky",
+            "a gravel path through grass"
+        ]
+        },
+        "album_005": {
+        "captions": [
+            "a birthday cake with candles lit",
+            "children smiling and wearing party hats",
+            "balloons tied to chairs",
+            "a woman setting cupcakes on the table"
+        ]
+        },
+        "album_006": {
+        "captions": [
+            "a street with cars parked on the side",
+            "a trash bin on the sidewalk",
+            "a stop sign on the corner",
+            "a brick wall covered in graffiti"
+        ]
+        },
+        "album_007": {
+        "captions": [
+            "a couple cutting a wedding cake",
+            "people throwing flowers",
+            "a bride hugging her father",
+            "a group photo with the newlyweds"
+        ]
+        },
+        "album_008": {
+        "captions": [
+            "a coffee cup beside a laptop",
+            "a keyboard with rainbow lights",
+            "a phone on silent next to a notebook",
+            "a modern desk setup"
+        ]
+        },
+        "album_009": {
+        "captions": [
+            "people dancing under colorful lights",
+            "a DJ playing at a party",
+            "a crowd cheering with drinks in hand",
+            "laser lights shining in a club"
+        ]
+        },
+        "album_010": {
+        "captions": [
+            "a man looking at his phone",
+            "an empty metro station",
+            "a vending machine near the wall",
+            "a closed counter with no one around"
+        ]
+        },
+        "album_011": {
+        "captions": [
+            "a stadium filled with cheering fans",
+            "a soccer player celebrating a goal",
+            "people waving flags",
+            "a man recording with his phone"
+        ]
+        },
+        "album_012": {
+        "captions": [
+            "a couch in a clean living room",
+            "books arranged on a shelf",
+            "a television turned off",
+            "a coffee table with a glass of water"
+        ]
+        },
+        "album_013": {
+        "captions": [
+            "a couple holding hands under fairy lights",
+            "a man proposing with a ring box",
+            "a woman covering her face in surprise",
+            "a group clapping in the background"
+        ]
+        },
+        "album_014": {
+        "captions": [
+            "a plain room with no decorations",
+            "a broken chair near the wall",
+            "a light flickering from the ceiling",
+            "a plastic bottle on the floor"
+        ]
+        },
+        "album_015": {
+        "captions": [
+            "kids playing catch in the park",
+            "a man grilling food on a barbecue",
+            "a family laughing at a picnic",
+            "a dog chasing a frisbee"
+        ]
+        },
+        "album_016": {
+        "captions": [
+            "an alley between buildings",
+            "a puddle reflecting a fire escape",
+            "a newspaper stand with no people",
+            "a bag of trash in the corner"
+        ]
+        },
+        "album_017": {
+        "captions": [
+            "a group singing happy birthday",
+            "confetti falling in the air",
+            "a man opening a champagne bottle",
+            "a woman laughing with her friends"
+        ]
+        },
+        "album_018": {
+        "captions": [
+            "a microwave on a kitchen counter",
+            "a stove with a pot on it",
+            "a sink full of dishes",
+            "a fridge covered in magnets"
+        ]
+        },
+        "album_019": {
+        "captions": [
+            "a man down on one knee holding a ring",
+            "a woman gasping with joy",
+            "a sunset behind a couple",
+            "a crowd watching and clapping"
+        ]
+        },
+        "album_020": {
+        "captions": [
+            "an elevator door with no one inside",
+            "a dull hallway with fluorescent lights",
+            "a water dispenser in the corner",
+            "a dusty notice board with peeling posters"
+        ]
+    }
+}
+
