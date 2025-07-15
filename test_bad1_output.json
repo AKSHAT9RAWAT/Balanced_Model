@@ -1,0 +1,924 @@
+{
+  "album_1000": {
+    "captions": [
+      "a rusted metal ladder in a corner",
+      "a broken office chair",
+      "a spilled box of nails",
+      "a stack of papers on a desk",
+      "a blank wall with peeling paint",
+      "a stack of papers on a desk",
+      "a microwave with a cracked door",
+      "a lamp on a metal cabinet",
+      "an unplugged monitor on a metal table",
+      "a microwave with a cracked door",
+      "a blank wall with peeling paint",
+      "an empty storage shelf",
+      "a cardboard box filled with cords",
+      "a stack of unused cables",
+      "a cardboard box filled with cords"
+    ],
+    "probability": 0.012,
+    "label": 0
+  },
+  "album_1001": {
+    "captions": [
+      "a mop leaning against the wall",
+      "a closed door in a hallway",
+      "a printer with low ink warning",
+      "a trash bin overflowing with paper",
+      "an electrical socket near a broken pipe",
+      "a printer with low ink warning",
+      "a rusted metal ladder in a corner",
+      "a vending machine with flashing lights",
+      "a vending machine with flashing lights",
+      "an electrical socket near a broken pipe",
+      "a microwave with a cracked door"
+    ],
+    "probability": 0.0127,
+    "label": 0
+  },
+  "album_1002": {
+    "captions": [
+      "a closed door in a hallway",
+      "a trash bin overflowing with paper",
+      "a vending machine with flashing lights",
+      "a microwave with a cracked door",
+      "a vending machine with flashing lights",
+      "a mop leaning against the wall",
+      "a closed door in a hallway",
+      "a stack of papers on a desk",
+      "a vending machine with flashing lights",
+      "a mop leaning against the wall"
+    ],
+    "probability": 0.0075,
+    "label": 0
+  },
+  "album_1003": {
+    "captions": [
+      "a cracked floor tile",
+      "a fire extinguisher mounted on the wall",
+      "an electrical socket near a broken pipe",
+      "a blank wall with peeling paint",
+      "a broken keyboard on the floor",
+      "a trash bin overflowing with paper",
+      "a blank wall with peeling paint",
+      "a dusty air vent",
+      "a stack of papers on a desk",
+      "a cardboard box filled with cords"
+    ],
+    "probability": 0.0085,
+    "label": 0
+  },
+  "album_1004": {
+    "captions": [
+      "a mop leaning against the wall",
+      "a broken office chair",
+      "a fire extinguisher mounted on the wall",
+      "a dusty air vent",
+      "a broken keyboard on the floor",
+      "a dusty air vent",
+      "a trash bin overflowing with paper",
+      "an empty storage shelf",
+      "an unplugged monitor on a metal table",
+      "a stack of unused cables",
+      "a stack of unused cables",
+      "a microwave with a cracked door",
+      "a whiteboard with no writing on it",
+      "a broken office chair"
+    ],
+    "probability": 0.0157,
+    "label": 0
+  },
+  "album_1005": {
+    "captions": [
+      "a printer with low ink warning",
+      "an electrical socket near a broken pipe",
+      "a microwave with a cracked door",
+      "a single chair in a dark room",
+      "a lamp on a metal cabinet",
+      "a cracked floor tile",
+      "a single chair in a dark room",
+      "a stack of papers on a desk",
+      "a lamp on a metal cabinet",
+      "a cardboard box filled with cords",
+      "a fire extinguisher mounted on the wall"
+    ],
+    "probability": 0.0161,
+    "label": 0
+  },
+  "album_1006": {
+    "captions": [
+      "a spilled box of nails",
+      "a microwave with a cracked door",
+      "a dusty light switch",
+      "a mop leaning against the wall",
+      "a microwave with a cracked door",
+      "a lamp on a metal cabinet",
+      "an empty storage shelf",
+      "a dusty air vent",
+      "a ceiling fan in an empty room",
+      "an electrical socket near a broken pipe",
+      "a stack of papers on a desk",
+      "a vending machine with flashing lights",
+      "a ceiling fan in an empty room"
+    ],
+    "probability": 0.0115,
+    "label": 0
+  },
+  "album_1007": {
+    "captions": [
+      "a printer with low ink warning",
+      "a dusty air vent",
+      "a cracked floor tile",
+      "a dusty air vent",
+      "a blank wall with peeling paint",
+      "a dusty air vent",
+      "a stack of papers on a desk",
+      "a fire extinguisher mounted on the wall",
+      "a stack of papers on a desk",
+      "a ceiling fan in an empty room"
+    ],
+    "probability": 0.0107,
+    "label": 0
+  },
+  "album_1008": {
+    "captions": [
+      "a single chair in a dark room",
+      "a closed door in a hallway",
+      "an unplugged monitor on a metal table",
+      "a lamp on a metal cabinet",
+      "a fire extinguisher mounted on the wall",
+      "a rusted metal ladder in a corner",
+      "a single chair in a dark room",
+      "a dusty light switch",
+      "a mop leaning against the wall",
+      "a printer with low ink warning",
+      "an empty storage shelf",
+      "an electrical socket near a broken pipe",
+      "a dusty light switch",
+      "an empty storage shelf",
+      "an unplugged monitor on a metal table"
+    ],
+    "probability": 0.016,
+    "label": 0
+  },
+  "album_1009": {
+    "captions": [
+      "a dusty light switch",
+      "a stack of unused cables",
+      "a stack of papers on a desk",
+      "a closed door in a hallway",
+      "a printer with low ink warning",
+      "a blank wall with peeling paint",
+      "a broken office chair",
+      "a blank wall with peeling paint",
+      "an empty storage shelf",
+      "an unplugged monitor on a metal table"
+    ],
+    "probability": 0.013,
+    "label": 0
+  },
+  "album_1010": {
+    "captions": [
+      "a microwave with a cracked door",
+      "an electrical socket near a broken pipe",
+      "a dusty air vent",
+      "a cardboard box filled with cords",
+      "a broken keyboard on the floor",
+      "a trash bin overflowing with paper",
+      "a printer with low ink warning",
+      "a fire extinguisher mounted on the wall",
+      "a trash bin overflowing with paper",
+      "a stack of unused cables",
+      "a whiteboard with no writing on it",
+      "a ceiling fan in an empty room",
+      "a rusted metal ladder in a corner"
+    ],
+    "probability": 0.017,
+    "label": 0
+  },
+  "album_1011": {
+    "captions": [
+      "a single chair in a dark room",
+      "a trash bin overflowing with paper",
+      "a stack of unused cables",
+      "a mop leaning against the wall",
+      "a lamp on a metal cabinet",
+      "an electrical socket near a broken pipe",
+      "an electrical socket near a broken pipe",
+      "a stack of unused cables",
+      "a broken keyboard on the floor",
+      "a dusty air vent",
+      "a dusty air vent",
+      "a cardboard box filled with cords",
+      "a microwave with a cracked door"
+    ],
+    "probability": 0.0178,
+    "label": 0
+  },
+  "album_1012": {
+    "captions": [
+      "a stack of papers on a desk",
+      "a ceiling fan in an empty room",
+      "a printer with low ink warning",
+      "a printer with low ink warning",
+      "a blank wall with peeling paint",
+      "a ceiling fan in an empty room",
+      "a stack of unused cables",
+      "a dusty light switch",
+      "a dusty air vent",
+      "a microwave with a cracked door"
+    ],
+    "probability": 0.0209,
+    "label": 0
+  },
+  "album_1013": {
+    "captions": [
+      "an electrical socket near a broken pipe",
+      "a broken keyboard on the floor",
+      "an empty storage shelf",
+      "a cardboard box filled with cords",
+      "a mop leaning against the wall",
+      "a cardboard box filled with cords",
+      "a vending machine with flashing lights",
+      "a microwave with a cracked door",
+      "a broken keyboard on the floor",
+      "a blank wall with peeling paint",
+      "a fire extinguisher mounted on the wall",
+      "a stack of papers on a desk",
+      "a ceiling fan in an empty room",
+      "a dusty light switch",
+      "an empty storage shelf"
+    ],
+    "probability": 0.0093,
+    "label": 0
+  },
+  "album_1014": {
+    "captions": [
+      "an unplugged monitor on a metal table",
+      "a single chair in a dark room",
+      "a single chair in a dark room",
+      "a rusted metal ladder in a corner",
+      "a closed door in a hallway",
+      "a single chair in a dark room",
+      "a stack of papers on a desk",
+      "a stack of unused cables",
+      "a whiteboard with no writing on it",
+      "a blank wall with peeling paint",
+      "a microwave with a cracked door",
+      "a cracked floor tile",
+      "a ceiling fan in an empty room",
+      "a rusted metal ladder in a corner"
+    ],
+    "probability": 0.0156,
+    "label": 0
+  },
+  "album_1015": {
+    "captions": [
+      "a blank wall with peeling paint",
+      "a ceiling fan in an empty room",
+      "a fire extinguisher mounted on the wall",
+      "a vending machine with flashing lights",
+      "a trash bin overflowing with paper",
+      "a whiteboard with no writing on it",
+      "a mop leaning against the wall",
+      "a rusted metal ladder in a corner",
+      "a lamp on a metal cabinet",
+      "a single chair in a dark room"
+    ],
+    "probability": 0.0087,
+    "label": 0
+  },
+  "album_1016": {
+    "captions": [
+      "a stack of papers on a desk",
+      "a spilled box of nails",
+      "a dusty air vent",
+      "a stack of papers on a desk",
+      "a blank wall with peeling paint",
+      "a lamp on a metal cabinet",
+      "a rusted metal ladder in a corner",
+      "a broken office chair",
+      "a closed door in a hallway",
+      "a single chair in a dark room",
+      "a fire extinguisher mounted on the wall"
+    ],
+    "probability": 0.0095,
+    "label": 0
+  },
+  "album_1017": {
+    "captions": [
+      "an unplugged monitor on a metal table",
+      "a printer with low ink warning",
+      "a broken office chair",
+      "a ceiling fan in an empty room",
+      "a microwave with a cracked door",
+      "an electrical socket near a broken pipe",
+      "a stack of unused cables",
+      "a blank wall with peeling paint",
+      "a cracked floor tile",
+      "a spilled box of nails",
+      "a rusted metal ladder in a corner",
+      "an unplugged monitor on a metal table",
+      "a stack of papers on a desk",
+      "a dusty light switch"
+    ],
+    "probability": 0.0194,
+    "label": 0
+  },
+  "album_1018": {
+    "captions": [
+      "a rusted metal ladder in a corner",
+      "a stack of unused cables",
+      "a broken office chair",
+      "a stack of unused cables",
+      "a whiteboard with no writing on it",
+      "a microwave with a cracked door",
+      "a dusty light switch",
+      "a stack of papers on a desk",
+      "an unplugged monitor on a metal table",
+      "a blank wall with peeling paint",
+      "a stack of unused cables",
+      "a spilled box of nails",
+      "a broken keyboard on the floor",
+      "a dusty air vent",
+      "a broken keyboard on the floor"
+    ],
+    "probability": 0.0222,
+    "label": 0
+  },
+  "album_1019": {
+    "captions": [
+      "a dusty air vent",
+      "a cardboard box filled with cords",
+      "a cracked floor tile",
+      "an unplugged monitor on a metal table",
+      "a cardboard box filled with cords",
+      "a lamp on a metal cabinet",
+      "a trash bin overflowing with paper",
+      "a vending machine with flashing lights",
+      "an electrical socket near a broken pipe",
+      "a rusted metal ladder in a corner",
+      "an electrical socket near a broken pipe",
+      "a closed door in a hallway"
+    ],
+    "probability": 0.0105,
+    "label": 0
+  },
+  "album_1020": {
+    "captions": [
+      "a microwave with a cracked door",
+      "a microwave with a cracked door",
+      "a fire extinguisher mounted on the wall",
+      "a whiteboard with no writing on it",
+      "a blank wall with peeling paint",
+      "a vending machine with flashing lights",
+      "a cardboard box filled with cords",
+      "a single chair in a dark room",
+      "a cardboard box filled with cords",
+      "a stack of papers on a desk",
+      "a cracked floor tile",
+      "a single chair in a dark room"
+    ],
+    "probability": 0.0094,
+    "label": 0
+  },
+  "album_1021": {
+    "captions": [
+      "a closed door in a hallway",
+      "a lamp on a metal cabinet",
+      "a cardboard box filled with cords",
+      "a broken keyboard on the floor",
+      "a rusted metal ladder in a corner",
+      "a spilled box of nails",
+      "a stack of unused cables",
+      "a broken keyboard on the floor",
+      "a single chair in a dark room",
+      "a spilled box of nails",
+      "a spilled box of nails",
+      "a cracked floor tile"
+    ],
+    "probability": 0.0175,
+    "label": 0
+  },
+  "album_1022": {
+    "captions": [
+      "a cracked floor tile",
+      "a cracked floor tile",
+      "a ceiling fan in an empty room",
+      "a stack of papers on a desk",
+      "a dusty light switch",
+      "a trash bin overflowing with paper",
+      "an empty storage shelf",
+      "an unplugged monitor on a metal table",
+      "a fire extinguisher mounted on the wall",
+      "a vending machine with flashing lights",
+      "a broken keyboard on the floor",
+      "a single chair in a dark room"
+    ],
+    "probability": 0.0168,
+    "label": 0
+  },
+  "album_1023": {
+    "captions": [
+      "a vending machine with flashing lights",
+      "an empty storage shelf",
+      "a closed door in a hallway",
+      "a stack of unused cables",
+      "an electrical socket near a broken pipe",
+      "a blank wall with peeling paint",
+      "a cardboard box filled with cords",
+      "a trash bin overflowing with paper",
+      "a closed door in a hallway",
+      "a spilled box of nails",
+      "a trash bin overflowing with paper"
+    ],
+    "probability": 0.0097,
+    "label": 0
+  },
+  "album_1024": {
+    "captions": [
+      "a rusted metal ladder in a corner",
+      "an unplugged monitor on a metal table",
+      "a mop leaning against the wall",
+      "a dusty air vent",
+      "a stack of papers on a desk",
+      "a trash bin overflowing with paper",
+      "a trash bin overflowing with paper",
+      "a fire extinguisher mounted on the wall",
+      "a stack of unused cables",
+      "a dusty air vent",
+      "a mop leaning against the wall",
+      "a ceiling fan in an empty room"
+    ],
+    "probability": 0.0156,
+    "label": 0
+  },
+  "album_1025": {
+    "captions": [
+      "a dusty light switch",
+      "a ceiling fan in an empty room",
+      "a trash bin overflowing with paper",
+      "a trash bin overflowing with paper",
+      "an empty storage shelf",
+      "an empty storage shelf",
+      "a single chair in a dark room",
+      "a blank wall with peeling paint",
+      "a stack of papers on a desk",
+      "a trash bin overflowing with paper",
+      "a dusty light switch",
+      "an electrical socket near a broken pipe",
+      "a spilled box of nails",
+      "a dusty air vent",
+      "an electrical socket near a broken pipe"
+    ],
+    "probability": 0.013,
+    "label": 0
+  },
+  "album_1026": {
+    "captions": [
+      "a broken keyboard on the floor",
+      "a stack of papers on a desk",
+      "a cardboard box filled with cords",
+      "an electrical socket near a broken pipe",
+      "an electrical socket near a broken pipe",
+      "a whiteboard with no writing on it",
+      "a mop leaning against the wall",
+      "a mop leaning against the wall",
+      "a broken keyboard on the floor",
+      "a stack of unused cables",
+      "a broken office chair",
+      "a ceiling fan in an empty room",
+      "an empty storage shelf",
+      "a stack of unused cables"
+    ],
+    "probability": 0.0118,
+    "label": 0
+  },
+  "album_1027": {
+    "captions": [
+      "a fire extinguisher mounted on the wall",
+      "a broken office chair",
+      "a cardboard box filled with cords",
+      "an empty storage shelf",
+      "a broken keyboard on the floor",
+      "a dusty air vent",
+      "an unplugged monitor on a metal table",
+      "an electrical socket near a broken pipe",
+      "a single chair in a dark room",
+      "a blank wall with peeling paint",
+      "a dusty light switch",
+      "a printer with low ink warning",
+      "a trash bin overflowing with paper",
+      "a single chair in a dark room",
+      "a mop leaning against the wall"
+    ],
+    "probability": 0.0135,
+    "label": 0
+  },
+  "album_1028": {
+    "captions": [
+      "a dusty light switch",
+      "a cardboard box filled with cords",
+      "an electrical socket near a broken pipe",
+      "an unplugged monitor on a metal table",
+      "a ceiling fan in an empty room",
+      "a dusty light switch",
+      "a single chair in a dark room",
+      "a cracked floor tile",
+      "a lamp on a metal cabinet",
+      "a broken office chair"
+    ],
+    "probability": 0.0161,
+    "label": 0
+  },
+  "album_1029": {
+    "captions": [
+      "a spilled box of nails",
+      "a printer with low ink warning",
+      "a ceiling fan in an empty room",
+      "a microwave with a cracked door",
+      "an electrical socket near a broken pipe",
+      "a fire extinguisher mounted on the wall",
+      "a whiteboard with no writing on it",
+      "a rusted metal ladder in a corner",
+      "a microwave with a cracked door",
+      "a stack of unused cables",
+      "a rusted metal ladder in a corner"
+    ],
+    "probability": 0.0162,
+    "label": 0
+  },
+  "album_1030": {
+    "captions": [
+      "an unplugged monitor on a metal table",
+      "a mop leaning against the wall",
+      "a broken office chair",
+      "a lamp on a metal cabinet",
+      "a microwave with a cracked door",
+      "an empty storage shelf",
+      "a fire extinguisher mounted on the wall",
+      "a trash bin overflowing with paper",
+      "a cracked floor tile",
+      "a stack of papers on a desk"
+    ],
+    "probability": 0.0131,
+    "label": 0
+  },
+  "album_1031": {
+    "captions": [
+      "a stack of papers on a desk",
+      "a mop leaning against the wall",
+      "an empty storage shelf",
+      "an empty storage shelf",
+      "a ceiling fan in an empty room",
+      "a printer with low ink warning",
+      "a mop leaning against the wall",
+      "a whiteboard with no writing on it",
+      "a ceiling fan in an empty room",
+      "a broken keyboard on the floor",
+      "a dusty light switch",
+      "a spilled box of nails",
+      "an electrical socket near a broken pipe"
+    ],
+    "probability": 0.01,
+    "label": 0
+  },
+  "album_1032": {
+    "captions": [
+      "an empty storage shelf",
+      "a rusted metal ladder in a corner",
+      "a mop leaning against the wall",
+      "a vending machine with flashing lights",
+      "a broken office chair",
+      "a broken keyboard on the floor",
+      "a lamp on a metal cabinet",
+      "a lamp on a metal cabinet",
+      "a mop leaning against the wall",
+      "a mop leaning against the wall",
+      "a vending machine with flashing lights",
+      "an unplugged monitor on a metal table",
+      "a dusty air vent",
+      "a rusted metal ladder in a corner",
+      "a cracked floor tile"
+    ],
+    "probability": 0.0102,
+    "label": 0
+  },
+  "album_1033": {
+    "captions": [
+      "a rusted metal ladder in a corner",
+      "a spilled box of nails",
+      "a stack of papers on a desk",
+      "a broken keyboard on the floor",
+      "a fire extinguisher mounted on the wall",
+      "a fire extinguisher mounted on the wall",
+      "a broken keyboard on the floor",
+      "a mop leaning against the wall",
+      "a rusted metal ladder in a corner",
+      "a whiteboard with no writing on it"
+    ],
+    "probability": 0.0109,
+    "label": 0
+  },
+  "album_1034": {
+    "captions": [
+      "a stack of unused cables",
+      "a dusty light switch",
+      "a broken keyboard on the floor",
+      "a lamp on a metal cabinet",
+      "a lamp on a metal cabinet",
+      "a dusty air vent",
+      "a whiteboard with no writing on it",
+      "a rusted metal ladder in a corner",
+      "a blank wall with peeling paint",
+      "a stack of unused cables",
+      "a ceiling fan in an empty room",
+      "a microwave with a cracked door",
+      "a stack of unused cables",
+      "a dusty air vent",
+      "a fire extinguisher mounted on the wall"
+    ],
+    "probability": 0.0184,
+    "label": 0
+  },
+  "album_1035": {
+    "captions": [
+      "a closed door in a hallway",
+      "a trash bin overflowing with paper",
+      "a stack of papers on a desk",
+      "a single chair in a dark room",
+      "a cardboard box filled with cords",
+      "an unplugged monitor on a metal table",
+      "a spilled box of nails",
+      "a spilled box of nails",
+      "a rusted metal ladder in a corner",
+      "a cracked floor tile",
+      "a single chair in a dark room",
+      "a trash bin overflowing with paper",
+      "a closed door in a hallway",
+      "a cardboard box filled with cords"
+    ],
+    "probability": 0.0139,
+    "label": 0
+  },
+  "album_1036": {
+    "captions": [
+      "a spilled box of nails",
+      "a printer with low ink warning",
+      "a closed door in a hallway",
+      "a closed door in a hallway",
+      "a spilled box of nails",
+      "a broken keyboard on the floor",
+      "a blank wall with peeling paint",
+      "a cracked floor tile",
+      "a trash bin overflowing with paper",
+      "a cardboard box filled with cords",
+      "a cardboard box filled with cords"
+    ],
+    "probability": 0.0102,
+    "label": 0
+  },
+  "album_1037": {
+    "captions": [
+      "an empty storage shelf",
+      "a ceiling fan in an empty room",
+      "a ceiling fan in an empty room",
+      "a ceiling fan in an empty room",
+      "a blank wall with peeling paint",
+      "an empty storage shelf",
+      "a cracked floor tile",
+      "a microwave with a cracked door",
+      "a printer with low ink warning",
+      "a trash bin overflowing with paper",
+      "a cardboard box filled with cords"
+    ],
+    "probability": 0.0115,
+    "label": 0
+  },
+  "album_1038": {
+    "captions": [
+      "a trash bin overflowing with paper",
+      "a single chair in a dark room",
+      "a stack of unused cables",
+      "a lamp on a metal cabinet",
+      "a vending machine with flashing lights",
+      "a broken keyboard on the floor",
+      "a ceiling fan in an empty room",
+      "a mop leaning against the wall",
+      "an electrical socket near a broken pipe",
+      "a broken office chair",
+      "a stack of papers on a desk",
+      "a whiteboard with no writing on it",
+      "a trash bin overflowing with paper"
+    ],
+    "probability": 0.0146,
+    "label": 0
+  },
+  "album_1039": {
+    "captions": [
+      "a spilled box of nails",
+      "an unplugged monitor on a metal table",
+      "a dusty air vent",
+      "a dusty light switch",
+      "a spilled box of nails",
+      "a ceiling fan in an empty room",
+      "a dusty air vent",
+      "a single chair in a dark room",
+      "a microwave with a cracked door",
+      "a dusty air vent"
+    ],
+    "probability": 0.0178,
+    "label": 0
+  },
+  "album_1040": {
+    "captions": [
+      "an empty storage shelf",
+      "a stack of papers on a desk",
+      "an unplugged monitor on a metal table",
+      "a broken keyboard on the floor",
+      "a fire extinguisher mounted on the wall",
+      "a cracked floor tile",
+      "a stack of unused cables",
+      "an electrical socket near a broken pipe",
+      "a fire extinguisher mounted on the wall",
+      "a cracked floor tile",
+      "a cardboard box filled with cords",
+      "a whiteboard with no writing on it",
+      "a stack of unused cables",
+      "a rusted metal ladder in a corner"
+    ],
+    "probability": 0.0148,
+    "label": 0
+  },
+  "album_1041": {
+    "captions": [
+      "a spilled box of nails",
+      "a rusted metal ladder in a corner",
+      "a whiteboard with no writing on it",
+      "a single chair in a dark room",
+      "a microwave with a cracked door",
+      "an empty storage shelf",
+      "a printer with low ink warning",
+      "a dusty light switch",
+      "a whiteboard with no writing on it",
+      "a blank wall with peeling paint"
+    ],
+    "probability": 0.0103,
+    "label": 0
+  },
+  "album_1042": {
+    "captions": [
+      "an empty storage shelf",
+      "a dusty air vent",
+      "a ceiling fan in an empty room",
+      "a ceiling fan in an empty room",
+      "a spilled box of nails",
+      "a closed door in a hallway",
+      "a lamp on a metal cabinet",
+      "a cracked floor tile",
+      "a lamp on a metal cabinet",
+      "a ceiling fan in an empty room",
+      "a microwave with a cracked door",
+      "an electrical socket near a broken pipe",
+      "an empty storage shelf",
+      "a blank wall with peeling paint"
+    ],
+    "probability": 0.0092,
+    "label": 0
+  },
+  "album_1043": {
+    "captions": [
+      "a trash bin overflowing with paper",
+      "a blank wall with peeling paint",
+      "a mop leaning against the wall",
+      "an empty storage shelf",
+      "a spilled box of nails",
+      "a broken keyboard on the floor",
+      "a lamp on a metal cabinet",
+      "a mop leaning against the wall",
+      "an electrical socket near a broken pipe",
+      "a dusty light switch",
+      "a stack of papers on a desk",
+      "a rusted metal ladder in a corner",
+      "a rusted metal ladder in a corner",
+      "a whiteboard with no writing on it",
+      "a spilled box of nails"
+    ],
+    "probability": 0.0097,
+    "label": 0
+  },
+  "album_1044": {
+    "captions": [
+      "a fire extinguisher mounted on the wall",
+      "a ceiling fan in an empty room",
+      "a lamp on a metal cabinet",
+      "a vending machine with flashing lights",
+      "a cracked floor tile",
+      "a printer with low ink warning",
+      "an unplugged monitor on a metal table",
+      "an electrical socket near a broken pipe",
+      "a trash bin overflowing with paper",
+      "a spilled box of nails",
+      "a blank wall with peeling paint",
+      "a dusty air vent",
+      "a microwave with a cracked door"
+    ],
+    "probability": 0.0139,
+    "label": 0
+  },
+  "album_1045": {
+    "captions": [
+      "a mop leaning against the wall",
+      "a dusty light switch",
+      "a dusty light switch",
+      "a dusty light switch",
+      "a stack of papers on a desk",
+      "a ceiling fan in an empty room",
+      "a cardboard box filled with cords",
+      "a mop leaning against the wall",
+      "an electrical socket near a broken pipe",
+      "a vending machine with flashing lights",
+      "a cracked floor tile",
+      "a cracked floor tile"
+    ],
+    "probability": 0.0101,
+    "label": 0
+  },
+  "album_1046": {
+    "captions": [
+      "a stack of papers on a desk",
+      "a lamp on a metal cabinet",
+      "an empty storage shelf",
+      "a dusty air vent",
+      "an unplugged monitor on a metal table",
+      "a stack of papers on a desk",
+      "an unplugged monitor on a metal table",
+      "a stack of papers on a desk",
+      "a dusty light switch",
+      "a cardboard box filled with cords",
+      "a broken keyboard on the floor",
+      "a whiteboard with no writing on it",
+      "a rusted metal ladder in a corner",
+      "a cardboard box filled with cords"
+    ],
+    "probability": 0.0139,
+    "label": 0
+  },
+  "album_1047": {
+    "captions": [
+      "a blank wall with peeling paint",
+      "a stack of unused cables",
+      "a cracked floor tile",
+      "a rusted metal ladder in a corner",
+      "an unplugged monitor on a metal table",
+      "a rusted metal ladder in a corner",
+      "a closed door in a hallway",
+      "a stack of unused cables",
+      "a single chair in a dark room",
+      "a whiteboard with no writing on it",
+      "a cracked floor tile",
+      "a single chair in a dark room",
+      "an empty storage shelf",
+      "a trash bin overflowing with paper"
+    ],
+    "probability": 0.0163,
+    "label": 0
+  },
+  "album_1048": {
+    "captions": [
+      "a fire extinguisher mounted on the wall",
+      "a dusty light switch",
+      "a broken keyboard on the floor",
+      "a rusted metal ladder in a corner",
+      "a blank wall with peeling paint",
+      "an empty storage shelf",
+      "a cracked floor tile",
+      "a whiteboard with no writing on it",
+      "a dusty light switch",
+      "a single chair in a dark room",
+      "an empty storage shelf",
+      "a trash bin overflowing with paper",
+      "an empty storage shelf",
+      "a rusted metal ladder in a corner"
+    ],
+    "probability": 0.0111,
+    "label": 0
+  },
+  "album_1049": {
+    "captions": [
+      "a mop leaning against the wall",
+      "a microwave with a cracked door",
+      "a broken keyboard on the floor",
+      "a ceiling fan in an empty room",
+      "a lamp on a metal cabinet",
+      "a cardboard box filled with cords",
+      "a stack of papers on a desk",
+      "an unplugged monitor on a metal table",
+      "a stack of unused cables",
+      "a rusted metal ladder in a corner"
+    ],
+    "probability": 0.0195,
+    "label": 0
+  }
+}
