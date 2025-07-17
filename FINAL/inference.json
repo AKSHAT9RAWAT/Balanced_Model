@@ -1,0 +1,67 @@
+{
+  "1005013": {
+    "captions": [
+      "fireworks over the city at night",
+      "fireworks over the city of edmonton",
+      "fireworks over the city of edmonton",
+      "fireworks in the night sky over a city",
+      "fireworks in the night sky over a city",
+      "fireworks in the sky over a city",
+      "fireworks on the water at night",
+      "fireworks in the sky over a city",
+      "fireworks over the city of fort, texas",
+      "fireworks in the night sky",
+      "fireworks over the city of edmonton",
+      "fireworks in the sky over a city at night",
+      "fireworks in the night sky over a city",
+      "fireworks in the night sky over a city"
+    ],
+    "probability": 0.9988,
+    "label": 1
+  },
+  "545050": {
+    "captions": [
+      "a large fireworks is lit up the sky",
+      "a large fireworks is lit up the night sky",
+      "a large fireworks",
+      "a large fireworks is lit up the sky",
+      "a large red fireworks",
+      "a fireworks is lit up in the night sky",
+      "a fireworks is lit up the night sky",
+      "fireworks in the sky",
+      "a baseball stadium filled with people watching fireworks",
+      "a baseball stadium with a large crowd watching fireworks",
+      "a crowd of people watching a baseball game",
+      "a large fireworks is lit up the night sky",
+      "a large fireworks is lit up the sky"
+    ],
+    "probability": 0.9995,
+    "label": 1
+  },
+  "548541": {
+    "captions": [
+      "a woman eating a piece of cake",
+      "a man cooking food on a grill",
+      "a man sitting in a chair with a laptop",
+      "a bridge with graffiti on it",
+      "a man walking across a bridge",
+      "a view of a city at night from a rooftop",
+      "a woman in a purple shirt",
+      "a woman in a red shirt",
+      "a person watching fireworks",
+      "a woman sitting at a table with a bunch of flowers",
+      "a fireworks is lit up the night sky",
+      "a crowd of people watching a performance",
+      "a fireworks is lit up the night sky",
+      "a large fireworks is lit up the night sky",
+      "a woman in a white shirt",
+      "a man and a woman sitting at a table",
+      "a group of people posing for a picture",
+      "a street scene with a fire truck and a fire truck",
+      "a crowd of people crossing a street at night",
+      "a cat laying on a wooden floor"
+    ],
+    "probability": 0.9993,
+    "label": 1
+  }
+}
